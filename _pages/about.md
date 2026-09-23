@@ -5,7 +5,11 @@ permalink: /
 nav: false
 nav_order: 1
 
-profile: false
+profile:
+  align: right
+  image: profile.jpeg
+  image_circular: false
+  more_info:
 
 selected_papers: false
 social: true
