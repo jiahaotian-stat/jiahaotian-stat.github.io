@@ -1,65 +1,38 @@
 ---
 layout: page
-title: projects
+title: Projects
 permalink: /projects/
-description: A growing collection of your cool projects.
 nav: true
 nav_order: 3
-display_categories: [work, fun]
-horizontal: false
+description: Selected research and computational projects.
 ---
 
-<!-- pages/projects.md -->
-<div class="projects">
-{% if site.enable_project_categories and page.display_categories %}
-  <!-- Display categorized projects -->
-  {% for category in page.display_categories %}
-  <a id="{{ category }}" href=".#{{ category }}">
-    <h2 class="category">{{ category }}</h2>
-  </a>
-  {% assign categorized_projects = site.projects | where: "category", category %}
-  {% assign sorted_projects = categorized_projects | sort: "importance" %}
-  <!-- Generate cards for each project -->
-  {% if page.horizontal %}
-  <div class="container">
-    <div class="row row-cols-1 row-cols-md-2">
-    {% for project in sorted_projects %}
-      {% include projects_horizontal.liquid %}
-    {% endfor %}
-    </div>
-  </div>
-  {% else %}
-  <div class="row row-cols-1 row-cols-md-3">
-    {% for project in sorted_projects %}
-      {% include projects.liquid %}
-    {% endfor %}
-  </div>
-  {% endif %}
-  {% endfor %}
+## Research Projects
 
-{% else %}
+### Heavy-Tailed Robustness of Multiple-Knockoff Aggregation Methods
 
-<!-- Display projects without categories -->
+- **Advisor:** [Prof. Lijun Wang](https://hohoweiya.xyz/), School of Mathematical Sciences, Zhejiang University
+- **Period:** Sep. 2025 – Present
+- **Keywords:** Model-X Knockoffs · False Discovery Rate · Multiple-Run Aggregation · Heavy-Tailed Distributions
 
-{% assign sorted_projects = site.projects | sort: "importance" %}
+This project studies the robustness of multiple-knockoff aggregation procedures under extreme heavy-tailed distributions. The work examines how repeated randomized knockoff runs interact with sparse and unstable selections, and investigates robust feature-importance statistics and calibration strategies.
 
-  <!-- Generate cards for each project -->
+### Distributional Balancing Weights for Conformal Calibration under Covariate Shift
 
-{% if page.horizontal %}
+- **Advisor:** [Prof. Guanhua Chen](https://sites.google.com/view/gchenwisc/), University of Wisconsin–Madison
+- **Period:** Mar. 2026 – Present
+- **Keywords:** Conformal Prediction · Covariate Shift · Distributional Balancing · Characteristic Function Distance · Fourier Analysis
 
-  <div class="container">
-    <div class="row row-cols-1 row-cols-md-2">
-    {% for project in sorted_projects %}
-      {% include projects_horizontal.liquid %}
-    {% endfor %}
-    </div>
-  </div>
-  {% else %}
-  <div class="row row-cols-1 row-cols-md-3">
-    {% for project in sorted_projects %}
-      {% include projects.liquid %}
-    {% endfor %}
-  </div>
-  {% endif %}
-{% endif %}
-</div>
+This project develops response-free distributional balancing methods for conformal calibration under covariate shift. The main idea is to reweight labeled source calibration covariates toward an unlabeled target population and use the resulting weighted score distribution to approximate target-domain calibration without requiring accurate pointwise density-ratio estimation.
+
+The project studies RKHS- and characteristic-function-based balancing geometries, develops theory connecting covariate balance to calibration error, and evaluates the approach with Split Conformal Prediction, Conformalized Quantile Regression, and UACQR variants.
+
+## Selected Computational Projects
+
+### CNN Forward Inference Engine in C
+
+Implemented a convolutional neural network forward-inference engine from scratch in C, including binary parameter loading and forward computation. Channel pruning substantially reduced inference latency while retaining high classification accuracy.
+
+### Uncertainty Quantification for PDEs on Random Domains
+
+Reproduced numerical methods for elliptic stochastic PDEs on random domains using stochastic mappings, Karhunen–Loève expansions, polynomial chaos, and stochastic Galerkin methods.
