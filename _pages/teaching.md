@@ -1,15 +1,23 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
-description: Course materials, schedules, and resources for classes taught.
+title: Teaching
 nav: true
-nav_order: 6
-calendar: true
+nav_order: 4
+description: Teaching experience and course support.
 ---
 
-This page displays a collection of courses with detailed schedules, materials, and resources. You can organize your courses by years, terms, or topics.
+## Teaching Experience
 
-{% include calendar.liquid calendar_id='test@gmail.com' timezone='Asia/Shanghai' %}
+### Teaching Assistant — Probability and Mathematical Statistics
 
-{% include courses.liquid %}
+- **Institution:** School of Mathematical Sciences, Zhejiang University
+- **Period:** Sep. 2026 – Present
+- **Course Size:** 200+ undergraduate students
+- **Instructor:** Prof. Minzhi Zhao
+
+**Responsibilities**
+
+- Conduct office hours and answer questions on probability, random variables, common distributions, estimation, hypothesis testing, and related material.
+- Grade assignments and provide feedback on students' mathematical reasoning and statistical solutions.
+- Assist with course administration and communication for a large undergraduate class.
