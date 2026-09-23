@@ -28,3 +28,18 @@ My research interests lie at the intersection of **high-dimensional inference**,
 - Distribution shift and robust statistics
 - Optimization and statistical learning
 
+<style>
+.social .contact-icons {
+  margin-top: 1rem;
+}
+
+.social .contact-icons a {
+  font-size: 2rem;
+  margin-right: 0.7rem;
+  line-height: 1;
+}
+
+.social .contact-icons a:last-child {
+  margin-right: 0;
+}
+</style>
