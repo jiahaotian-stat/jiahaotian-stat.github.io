@@ -2,14 +2,10 @@
 layout: about
 title: About
 permalink: /
-nav: true
+nav: false
 nav_order: 1
 
-profile:
-  align: right
-  image: prof_pic.jpg
-  image_circular: false
-  more_info:
+profile: false
 
 selected_papers: false
 social: false
@@ -23,7 +19,7 @@ latest_posts:
 
 Hi! My name is **Jiahao Tian**. I am an undergraduate student majoring in **Statistics** at the [School of Mathematical Sciences](http://www.math.zju.edu.cn), **Zhejiang University**.
 
-My research interests lie at the intersection of **high-dimensional inference**, **uncertainty quantification**, and **theoretical statistics**. I am particularly interested in developing statistically principled methods that remain reliable under distribution shift, heavy-tailed distributions, and other forms of model misspecification.
+My research interests lie at the intersection of **high-dimensional inference**, **uncertainty quantification**, and **theoretical statistics**. I am particularly interested in developing statistically principled methods that remain reliable under **distribution shift**, **heavy-tailed distributions**, and other forms of model misspecification.
 
 ## Research Interests
 
