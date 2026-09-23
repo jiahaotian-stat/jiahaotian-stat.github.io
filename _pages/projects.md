@@ -4,10 +4,12 @@ title: Projects
 permalink: /projects/
 nav: true
 nav_order: 3
-description: Selected research and computational projects.
+description: 
 ---
 
 ## Research Projects
+
+---
 
 ### Heavy-Tailed Robustness of Multiple-Knockoff Aggregation Methods
 
@@ -19,6 +21,7 @@ This project studies the robustness of multiple-knockoff aggregation procedures 
 
 ### Distributional Balancing Weights for Conformal Calibration under Covariate Shift
 
+
 - **Advisor:** [Prof. Guanhua Chen](https://sites.google.com/view/gchenwisc/), University of Wisconsin–Madison
 - **Period:** Mar. 2026 – Present
 - **Keywords:** Conformal Prediction · Covariate Shift · Distributional Balancing · Characteristic Function Distance · Fourier Analysis
@@ -28,6 +31,8 @@ This project develops response-free distributional balancing methods for conform
 The project studies RKHS- and characteristic-function-based balancing geometries, develops theory connecting covariate balance to calibration error, and evaluates the approach with Split Conformal Prediction, Conformalized Quantile Regression, and UACQR variants.
 
 ## Selected Computational Projects
+
+---
 
 ### CNN Forward Inference Engine in C
 

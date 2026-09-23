@@ -4,7 +4,7 @@ permalink: /notes/
 title: Notes
 nav: true
 nav_order: 7
-description: Mathematical and statistical course notes.
+description: 
 ---
 
 My course notes and academic garden are maintained separately with MkDocs.

@@ -4,10 +4,12 @@ permalink: /talks/
 title: Talks
 nav: true
 nav_order: 5
-description: Selected seminars and academic presentations.
+description: 
 ---
 
 ## Seminars & Presentations
+
+---
 
 ### Convergence of Random Series and Large Deviations
 
