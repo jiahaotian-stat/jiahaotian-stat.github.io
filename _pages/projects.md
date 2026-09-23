@@ -4,7 +4,7 @@ title: Projects
 permalink: /projects/
 nav: true
 nav_order: 3
-description: 
+description:
 ---
 
 ## Research Projects
@@ -20,7 +20,6 @@ description:
 This project studies the robustness of multiple-knockoff aggregation procedures under extreme heavy-tailed distributions. The work examines how repeated randomized knockoff runs interact with sparse and unstable selections, and investigates robust feature-importance statistics and calibration strategies.
 
 ### Distributional Balancing Weights for Conformal Calibration under Covariate Shift
-
 
 - **Advisor:** [Prof. Guanhua Chen](https://sites.google.com/view/gchenwisc/), University of Wisconsin–Madison
 - **Period:** Mar. 2026 – Present

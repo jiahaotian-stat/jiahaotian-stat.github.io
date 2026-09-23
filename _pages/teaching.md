@@ -4,7 +4,7 @@ permalink: /teaching/
 title: Teaching
 nav: true
 nav_order: 4
-description: 
+description:
 ---
 
 ## Zhejiang University
@@ -12,4 +12,4 @@ description:
 ---
 
 **Probability Theory and Mathematical Statistics**  
-*Teaching Assistant, Fall–Winter 2026–2027*
+_Teaching Assistant, Fall–Winter 2026–2027_

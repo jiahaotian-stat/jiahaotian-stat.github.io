@@ -4,7 +4,7 @@ permalink: /talks/
 title: Talks
 nav: true
 nav_order: 5
-description: 
+description:
 ---
 
 ## Seminars & Presentations
