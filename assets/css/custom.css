@@ -7,11 +7,7 @@
 }
 
 body {
-  font-family:
-    Georgia,
-    "Times New Roman",
-    Times,
-    serif;
+  font-family: Georgia, "Times New Roman", Times, serif;
   font-size: 1.06rem;
   line-height: 1.55;
 }
@@ -20,11 +16,7 @@ h1,
 h2,
 h3,
 h4 {
-  font-family:
-    Georgia,
-    "Times New Roman",
-    Times,
-    serif;
+  font-family: Georgia, "Times New Roman", Times, serif;
   font-weight: 400;
   letter-spacing: 0;
 }
@@ -32,11 +24,7 @@ h4 {
 .navbar,
 .navbar-brand,
 .nav-link {
-  font-family:
-    Georgia,
-    "Times New Roman",
-    Times,
-    serif;
+  font-family: Georgia, "Times New Roman", Times, serif;
 }
 
 hr {
