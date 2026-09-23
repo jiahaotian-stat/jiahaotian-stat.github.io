@@ -11,5 +11,5 @@ description:
 
 ---
 
-**Probability Theory and Mathematical Statistics**  
+- **Probability Theory and Mathematical Statistics**  
 _Teaching Assistant, Fall–Winter 2026–2027_
