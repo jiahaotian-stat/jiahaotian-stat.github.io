@@ -8,7 +8,7 @@ nav_order: 1
 profile: false
 
 selected_papers: false
-social: false
+social: true
 
 announcements:
   enabled: false
@@ -28,9 +28,3 @@ My research interests lie at the intersection of **high-dimensional inference**,
 - Distribution shift and robust statistics
 - Optimization and statistical learning
 
-## Contact
-
-- **Email:** [jhtian1122@outlook.com](mailto:jhtian1122@outlook.com)
-- **GitHub:** [jiahaotian-stat](https://github.com/jiahaotian-stat)
-- **LinkedIn:** [Jiahao Tian](https://www.linkedin.com/in/jiahao-tian-a8b146399/)
-- **ORCID:** [0009-0001-9508-1477](https://orcid.org/0009-0001-9508-1477)
