@@ -1,0 +1,49 @@
+:root {
+  --global-bg-color: #f7f8fa;
+  --global-text-color: #111111;
+  --global-theme-color: #c218b8;
+  --global-hover-color: #9f1597;
+  --global-divider-color: #e2e2e2;
+}
+
+body {
+  font-family:
+    Georgia,
+    "Times New Roman",
+    Times,
+    serif;
+  font-size: 1.06rem;
+  line-height: 1.55;
+}
+
+h1,
+h2,
+h3,
+h4 {
+  font-family:
+    Georgia,
+    "Times New Roman",
+    Times,
+    serif;
+  font-weight: 400;
+  letter-spacing: 0;
+}
+
+.navbar,
+.navbar-brand,
+.nav-link {
+  font-family:
+    Georgia,
+    "Times New Roman",
+    Times,
+    serif;
+}
+
+hr {
+  border: 0;
+  border-top: 1px solid var(--global-divider-color);
+}
+
+.post-title {
+  font-weight: 400;
+}
