@@ -229,26 +229,10 @@ kramdown:
 # Includes & excludes
 include: ["_pages"]
 exclude:
-  - AGENTS.md
-  - al-folio-upgrade-report.md
-  - bin/
-  - CLAUDE.md
-  - Dockerfile
-  - docker-compose.yml
-  - docker-compose-slim.yml
-  - docs/
   - Gemfile
   - Gemfile.lock
   - LICENSE
-  - lighthouse_results/
-  - package.json
-  - package-lock.json
-  - _pages/about_einstein.md
-  - purgecss.config.js
   - README.md
-  - readme_preview/
-  - gems/
-  - migrations/
   - vendor
 keep_files:
   - CNAME
