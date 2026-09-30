@@ -7,6 +7,9 @@ nav_order: 6
 description:
 ---
 
-My curriculum vitae will be available here shortly.
+<meta http-equiv="refresh" content="0; url={{ '/assets/pdf/Jiahao_Tian_CV.pdf' | relative_url }}">
+<script>
+  window.location.replace("{{ '/assets/pdf/Jiahao_Tian_CV.pdf' | relative_url }}");
+</script>
 
-For current information, please see the [About](/) and [Projects](/projects/) pages.
+If you are not redirected automatically, [open Jiahao Tian's CV]({{ '/assets/pdf/Jiahao_Tian_CV.pdf' | relative_url }}).
