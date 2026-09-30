@@ -7,6 +7,9 @@ nav_order: 7
 description:
 ---
 
-My course notes and academic garden are maintained separately with MkDocs.
+<meta http-equiv="refresh" content="0; url=https://jiahaotian-stat.github.io/Notes/">
+<script>
+  window.location.replace("https://jiahaotian-stat.github.io/Notes/");
+</script>
 
-[**Visit Jiahao's Academic Space →**](https://jiahaotian-stat.github.io/Notes/)
+If you are not redirected automatically, [open Jiahao's Academic Notes](https://jiahaotian-stat.github.io/Notes/).
