@@ -7,7 +7,25 @@ nav_order: 5
 description:
 ---
 
-## Seminars & Presentations
+## Selected Talks
+
+---
+
+### Distributional Balancing Weights for Conformal Calibration under Covariate Shift
+
+- **Context:** Statistics Seminar, Prof. Lijun Wang's Group, Zhejiang University
+- **Date:** Fall 2026
+
+Presented our recent work on uncertainty quantification under covariate shift, including distributional balancing, RKHS and characteristic-function-based discrepancies, response-free tuning, and theoretical coverage guarantees.
+
+---
+
+### Robustness of Multiple Knockoff Methods
+
+- **Context:** Statistics Seminar, Prof. Lijun Wang's Group, Zhejiang University
+- **Date:** Fall 2025
+
+Presented work on multiple-knockoff aggregation, false discovery rate control, robustness under heavy-tailed settings, and threshold calibration.
 
 ---
 
@@ -16,18 +34,4 @@ description:
 - **Context:** Advanced Probability Theory Seminar, Zhejiang University
 - **Date:** Fall 2025
 
-Topics included tail sigma-fields, Kolmogorov's 0–1 Law, the Hewitt–Savage 0–1 Law, Kolmogorov's maximal inequality, the three-series theorem, strong laws of large numbers, and Cramér's theorem.
-
-### Robustness of Multiple Knockoff Methods
-
-- **Context:** Weekly Statistics Seminar, Prof. Lijun Wang's Group
-- **Date:** Fall 2025
-
-Topics included Model-X knockoffs, finite-sample FDR control, multiple-run aggregation, empirical power degradation under heavy-tailed designs, and threshold calibration.
-
-### Topics in Stochastic Analysis
-
-- **Context:** Topics in Stochastic Analysis Seminar, Zhejiang University
-- **Date:** Fall 2026
-
-Details to be added.
+Presented classical results on random series and large deviations, including the three-series theorem, strong laws of large numbers, and Cramér's theorem.
