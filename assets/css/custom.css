@@ -37,3 +37,8 @@ hr {
 .post-title {
   font-weight: 400;
 }
+
+strong,
+b {
+  font-weight: 700;
+}
