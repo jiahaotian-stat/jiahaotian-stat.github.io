@@ -21,7 +21,7 @@ latest_posts:
   enabled: false
 ---
 
-Hi! My name is **Jiahao(Ethan) Tian**. I am an undergraduate student majoring in **Statistics** at the [School of Mathematical Sciences](http://www.math.zju.edu.cn), **Zhejiang University**.
+Hi! My name is **Jiahao (Ethan) Tian**. I am an undergraduate student majoring in **Statistics** at the [School of Mathematical Sciences](http://www.math.zju.edu.cn), **Zhejiang University**.
 
 My research interests center on **high-dimensional statistical inference** and **uncertainty quantification**. I am particularly interested in developing reliable statistical methods for **modern data settings** involving high dimensionality, heavy-tailed distributions, model misspecification, and distribution shift. I am also interested in using **mathematical tools** to understand statistical phenomena and in connecting statistical theory with practical computation through **optimization**. Beyond methodological and theoretical questions, I also care about translating statistical methods into practical applications, particularly in **biomedical data analysis**.
 
