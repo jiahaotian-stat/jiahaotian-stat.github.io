@@ -34,7 +34,7 @@ My research interests center on **high-dimensional statistical inference** and *
 
 ## Honors & Awards
 
-- **2026** — National Scholarship, Ministry of Education of China
+- **2026** — National Scholarship in China
 
 <style>
 .social .contact-icons {
