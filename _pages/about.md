@@ -32,6 +32,10 @@ My research interests center on **high-dimensional statistical inference** and *
 - Robust inference under model misspecification and distribution shift
 - Optimization and statistical learning
 
+## Honors & Awards
+
+- **2026** — National Scholarship, Ministry of Education of China
+
 <style>
 .social .contact-icons {
   margin-top: 1rem;
